@@ -1,2 +1,2 @@
 # A.D.S.
-Basic algorithms
+Basic algorithms implemented in c++
